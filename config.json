@@ -7,119 +7,49 @@
     "github_projects": true
   },
   "site": {
-    "title": "Deepthi Balasubramanian",
+    "title": "Bhadri Raj Thangaraj",
     "description": "Developer Portfolio",
     "seo": {
-      "title": "Deepthi Balasubramanian - Developer Portfolio",
-      "description": "Portfolio of Deepthi Balasubramanian - Software Engineer | AI Researcher | Microsoft Student Ambassador",
-      "keywords": "Deepthi, AI, Microsoft Student Ambassador, developer, portfolio, GitHub, Azure, innovation",
-      "author": "Deepthi Balasubramanian",
-      "og_image": "https://avatars.githubusercontent.com/deepthibalasubramanian",
+      "title": "Bhadri Raj Thangaraj - Developer Portfolio",
+      "description": "Portfolio of Bhadri Raj Thangaraj - Student at VIT | Aspiring Developer",
+      "keywords": "Bhadri Raj Thangaraj, VIT, developer, portfolio, LinkedIn",
+      "author": "Bhadri Raj Thangaraj",
+      "og_image": "",
       "twitter_card": "summary_large_image",
-      "base_url": "https://deepthibalasubramanian.dev"
+      "base_url": ""
     }
   },
   "header": {
-    "greeting": "Deepthi Balasubramanian",
-    "tagline": "Engineer. Explorer. Empowering with AI."
+    "greeting": "Bhadri Raj Thangaraj",
+    "tagline": "Student. Developer. Lifelong Learner."
   },
   "social_links": [
     {
-      "name": "GitHub",
-      "url": "https://github.com/deepthibalasubramanian",
-      "icon": "github",
-      "required": true
-    },
-    {
       "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/deepthibalasubramanian/",
+      "url": "https://www.linkedin.com/in/bhadri-raj-thangaraj-825763272",
       "icon": "linkedin"
     }
   ],
-  "github_username": "deepthibalasubramanian",
+  "github_username": "",
   "about": {
     "paragraphs": [
-      "Hey there! I’m Deepthi, a passionate engineer with a love for AI, innovation, and community building. From building accessible tech for social good to representing India at Microsoft global summits, I’m all about using technology to empower lives.",
-      "Currently a Software Engineering Intern at Honeywell and a Gold-level Microsoft Student Ambassador, I’ve delivered 20+ workshops, mentored global peers, and led award-winning projects. Let's connect and create something impactful together!"
+      "Hi! I'm Bhadri Raj Thangaraj, currently pursuing an Integrated MTech in Computer Science at Vellore Institute of Technology. Passionate about web technologies and programming.",
+      "Currently interning at CSIRJIGYASA, I'm eager to explore opportunities in software development and research."
     ]
   },
   "projects": {
     "title": "Latest Projects",
-    "items": [
-      {
-        "name": "Hearing the World",
-        "date": "Jan 2023 - Mar 2023",
-        "description": [
-          "Microsoft Social Impact Project across 3 countries.",
-          "Led a diverse team to build an AI-powered Android app for the visually impaired.",
-          "Enabled immersive, story-like environmental descriptions using AI."
-        ],
-        "picture": "assets/projects/hearing_the_world.jpg",
-        "link": {
-          "url": "https://github.com/orgs/MLSA-Social-Impact-Project-Jan-Mar-23/repositories",
-          "title": "View Repository"
-        }
-      },
-      {
-        "name": "Inclusi-AI Vitality",
-        "date": "2023",
-        "description": [
-          "AI-based health chatbot for mental wellness support.",
-          "Secure, personalized response system using natural language understanding."
-        ],
-        "picture": "assets/projects/inclusi_ai.jpg",
-        "link": {
-          "url": "https://github.com/deepthibalasubramanian/Inclusi-AI-Vitality",
-          "title": "GitHub Repository"
-        }
-      },
-      {
-        "name": "MiniATS - AI Application Tracking System",
-        "date": "2024",
-        "description": [
-          "Customizable ATS that integrates AI to streamline resume parsing and job application workflows."
-        ],
-        "picture": "assets/projects/miniats.jpg",
-        "link": {
-          "url": "https://github.com/deepthibalasubramanian/MiniATS-Application-Tracking-System",
-          "title": "GitHub Repository"
-        }
-      }
-    ]
+    "items": []
   },
   "experience": {
     "title": "Professional Experience",
     "jobs": [
       {
-        "company": "Honeywell",
-        "role": "Software Engineering Intern",
-        "date": "Jan 2025 - Present",
-        "responsibilities": [
-          "Built automation tools improving deployment productivity by 81%",
-          "Integrated Agentic AI to support troubleshooting for program managers.",
-          "Helped organize employee engagement events and cross-functional learning."
-        ],
-        "logo": "assets/logos/honeywell_logo.png"
-      },
-      {
-        "company": "The Edify Project",
-        "role": "Associate Business Analyst",
-        "date": "Sep 2023 – Mar 2024",
-        "responsibilities": [
-          "Secured $1M venture funding through proposal writing.",
-          "Assisted CEO with strategy and high-level client management."
-        ],
-        "logo": "assets/logos/edify_logo.png"
-      },
-      {
-        "company": "Cittaa Health Services",
-        "role": "Director / COO",
-        "date": "Nov 2021 – Mar 2023",
-        "responsibilities": [
-          "Managed 40+ employees and interns remotely.",
-          "Registered company with Startup India and collaborated with V-NEST incubation."
-        ],
-        "logo": "assets/logos/cittaa_logo.png"
+        "company": "CSIRJIGYASA",
+        "role": "Student Intern",
+        "date": "March 2024 - Present",
+        "responsibilities": [],
+        "logo": ""
       }
     ]
   },
@@ -129,42 +59,9 @@
       {
         "name": "Technical Skills",
         "items": [
-          "Python, Java, C++",
-          "SQL, JavaScript, R",
-          "HTML, CSS, React",
-          "Azure AI, AWS, Google Cloud",
-          "Git, GitHub, CI/CD",
-          "C#, MATLAB, Jupyter Notebook"
-        ]
-      },
-      {
-        "name": "AI & Research",
-        "items": [
-          "Deepfake Detection with Diffusion-CNN-LSTM",
-          "IoT-based Adulteration Detection",
-          "DDoS and Flash Crowd Analysis",
-          "Agentic AI for DevOps"
-        ]
-      },
-      {
-        "name": "Certifications",
-        "items": [
-          {
-            "name": "Microsoft Azure AI Fundamentals",
-            "url": "https://www.credly.com/badges/AI-900"
-          },
-          {
-            "name": "Azure Data Fundamentals",
-            "url": "https://www.credly.com/badges/DP-900"
-          },
-          {
-            "name": "Foundational C# with Microsoft",
-            "url": "#"
-          },
-          {
-            "name": "AWS Machine Learning Scholarship",
-            "url": "#"
-          }
+          "Cascading Style Sheets (CSS)",
+          "Web Applications",
+          "R (Programming Language)"
         ]
       }
     ]
@@ -175,7 +72,7 @@
   "footer": {
     "show_social_links": true,
     "show_built_with": true,
-    "built_with_text": "Built with 💙 using JavaScript and GitHub Pages",
-    "tagline": "Curious mind. Community heart. Let’s innovate together!"
+    "built_with_text": "Built with \ud83d\udc99 using JavaScript and GitHub Pages",
+    "tagline": "Curious mind. Let\u2019s innovate together!"
   }
 }
